@@ -256,3 +256,49 @@
 
  
 </details>
+
+
+<details>
+<summary>Advanced Bull Double Candle</summary>
+<br>
+
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201479813-d962e0a0-18bd-4af9-97c5-bae272e48376.png">
+
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201479908-edc8d591-bb3e-4ad7-ba1b-0f31807961ea.png">
+ 
+ <img width="1441" alt="image" src="https://user-images.githubusercontent.com/75510135/201480044-50212f47-47a4-451a-bcf0-d3f0c72c1c15.png">
+
+ - example
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201480059-70943bc3-4b3d-4028-99df-0e66dc3115f9.png">
+
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201480117-a98849d9-9e6b-44db-bdef-84dd3bf4cc97.png">
+
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201480316-e9039146-0812-4e1d-89bd-c5adcf3b0e01.png">
+
+ 
+</details>
+
+
+<details>
+<summary>xyz</summary>
+<br>
+
+ 
+</details>
+
+
+<details>
+<summary>xyz</summary>
+<br>
+
+ 
+</details>
+
+
+<details>
+<summary>xyz</summary>
+<br>
+
+ 
+</details>
+
