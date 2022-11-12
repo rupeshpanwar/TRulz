@@ -125,7 +125,8 @@
  -  Bullish Engulfing Pattern confirms the SUPPORT 
  -  Bearish Engulfing Pattern confirms the Resistance
  
- 
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478401-373c2070-b988-4ea5-9e4c-efd1d2c2eefd.png">
+
 </details>
 
 
@@ -148,14 +149,36 @@
 
  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201476622-697f2ede-19c0-45c6-ba00-b6bc4105048b.png">
 
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201476686-29241de9-3cac-4bfa-9c8d-a7cb5c18957b.png">
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201476783-265cf84b-389b-468e-ad96-b62d71756c1e.png">
+ - example
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201476847-8ea0facd-c4c4-4e71-9e9c-fd116f1402ef.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201476886-67982d1b-d421-413a-85f0-54f3e8fbc6ec.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201476948-ded70b77-7794-479a-9afd-7e2f82e486e8.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477029-708adc04-5734-40d2-8900-ac4aad99a7a0.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477183-4e4d057b-ebb8-4d12-b8d7-f96a1a89d0cd.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477213-89b70ad9-8a23-41d2-b1f9-5cb1b84aac29.png">
+
  
   
 </details>
 
 
 <details>
-<summary>Forex</summary>
+<summary>Hanging Man</summary>
 <br>
+
+  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477235-a1708adb-2c14-481d-b6fa-f1164d4eb4ba.png">
+
+  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477265-c2489187-e9f8-415e-bde9-8c1742a5ccbf.png">
+
+ - example
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477405-f2517514-8601-4e8a-a972-1dd3f3a97f27.png">
 
  
   
@@ -163,10 +186,73 @@
 
 
 <details>
-<summary>Forex</summary>
+<summary>Shooting Star</summary>
 <br>
 
+  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477446-04521aaf-a6ad-4692-9c41-5535961a6dfd.png">
   
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477583-07f3acaa-cc7c-4511-b0bd-3b044f9d632d.png">
+
+ - example
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477691-290fd478-9ea1-4980-a84e-c2c76ae19f1f.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477902-eb7dd379-d4d8-4839-b4d9-2f5a1c669df7.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478139-2eca212e-4a29-4b0a-8c3d-839661221fb5.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478153-b45fe3bc-d51d-41bf-b16c-2b55a3047fa0.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478263-e1d680ef-6eca-42bd-ae9c-88d382b0901a.png">
+
+ - exceptional as price confirmation is not there
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201477814-d002e904-3b03-4bf7-a041-9ec3a81fb245.png">
+
+ 
 </details>
 
+<details>
+<summary>Inverted Hammer</summary>
+<br>
 
+  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478285-ff9af8f7-372e-446b-99af-bc5c67c05e56.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478346-e5ca8b4f-52a4-4b0f-bab0-381209210645.png">
+
+ - example
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478377-d78620f4-1fda-435b-9f37-26391e7b1dff.png">
+
+ 
+</details>
+
+<details>
+<summary>Blended Candleline</summary>
+<br>
+
+  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478523-80ba482b-2be7-45d6-b169-f6a8f1e6381d.png">
+
+  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478552-08847409-2264-4fe9-9e62-641aed3fcdfc.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478664-58e209b0-fe86-4dbd-9d29-2c7e9141d143.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478810-334c9224-e5e4-4f32-9355-4b7adb45606a.png">
+
+ 
+</details>
+
+<details>
+<summary>Tweezers</summary>
+<br>
+
+  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478993-a52f2e48-3988-4d79-8869-00297baaea2d.png">
+
+  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201479143-774d7657-eecb-4434-90e9-c7c0e1a36c07.png">
+
+   - example
+  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201479242-5cda44c0-2eae-4ce3-aa62-e3faf493a402.png">
+  
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201479375-32db128f-8c46-42cd-aa29-8378343954f3.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201479444-4423df02-889a-4439-bc9c-88465ad3dd44.png">
+
+ 
+</details>
