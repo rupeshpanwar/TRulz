@@ -130,9 +130,25 @@
 
 
 <details>
-<summary>Price </summary>
+<summary>Advance Single and Blended Candles </summary>
 <br>
 
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201466745-ecfcf22b-2035-4c32-8c6d-1a0ff760da94.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201466817-c62a4fb7-c1cf-47e7-b018-5dd7073f2a18.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201466862-35976927-68cc-4c31-b963-74af0d2e6fb4.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201466943-f45de2d9-a1ce-48b2-bfb5-12e1aa7490e9.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201467229-a613ad53-a175-4d00-a902-11418bda4cab.png">
+
+ - Single side candles
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201467351-3b08797b-b23b-4c45-94b9-980762da5a2c.png">
+
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201476622-697f2ede-19c0-45c6-ba00-b6bc4105048b.png">
+
+ 
   
 </details>
 
