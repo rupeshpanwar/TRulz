@@ -139,10 +139,62 @@
    
 </details>
 
+
+
+<details>
+<summary>Support & Resistance</summary>
+<br>
+
+  <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201512890-6bfda498-1f97-483b-bc69-ba8610790e06.png">
+
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201512902-5c81589b-62e8-4156-87b4-8689a310e2f3.png">
+
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201512927-8daf6d35-5ad0-47a0-b3a8-a5e9ee201071.png">
+
+   - example
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201512976-c52c0d2d-691b-4f1b-bac3-f38239e403da.png">
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513055-54101f9e-fe13-425c-81cc-a12d77606f99.png">
+
+   
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513086-afaa39a1-e067-4689-a870-f85c98a94d8c.png">
+
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513178-1e4deaa5-17b4-4242-9979-44da8fd2eff0.png">
+
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513197-dcf11797-f02d-458d-843c-79ea2ec6d502.png">
+
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513238-297a1f05-687a-4d93-a2fe-bbe34ee98d8a.png">
+
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513248-4956296e-20f7-4d9c-868b-0993601b30ba.png">
+
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513266-7e98ebf8-c7b2-4b87-a224-3c7878864469.png">
+
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513334-f0a3d785-2251-4840-ab66-dbb134cb5c29.png">
+
+   - very command to break the support
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513350-3305164e-0255-4e6d-915c-bba3fbd45327.png">
+
+      - very command to break the resistance
+   <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201513385-ebe1a465-8679-4455-9575-511306a5ec38.png">
+
+   
+</details>
+
+
+<details>
+<summary>Box</summary>
+<br>
+
+  
+   
+</details>
+
 <details>
 <summary>Notes</summary>
 <br>
  
+   - support & Resistance
+     <img width="1489" alt="image" src="https://user-images.githubusercontent.com/75510135/201512927-8daf6d35-5ad0-47a0-b3a8-a5e9ee201071.png">
+
    - a weak trend is signal for trend reversal
    
    <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201512136-d52cf6d0-a131-4cc9-8a19-62cca789d9ca.png">
@@ -165,7 +217,7 @@
   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511500-f02f1a3d-3752-47b6-bc56-2ed913fd2d74.png">
   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511530-02d6c6de-9715-43bc-92ae-49ffc8a439c9.png">
 
-   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511568-95280932-c834-45f1-96b4-c098bb899420.png">
+  <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511568-95280932-c834-45f1-96b4-c098bb899420.png">
 
       
 </details>
