@@ -1,4 +1,3 @@
-# TRulz
 <details>
 <summary>Advance CandleSticks Pattern</summary>
 <br>
