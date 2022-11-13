@@ -82,18 +82,71 @@
 
 
 <details>
-<summary>xyz</summary>
+<summary>Measured Moves-price Target</summary>
 <br>
 
- 
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511446-c79c2305-bc52-42aa-9d22-0c9ea08f8791.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511485-44361ffe-22fb-4992-bfe6-2b62c1044d0b.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511503-0bcd7a33-92ce-4c7d-baa5-c72a96401901.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511524-e63c6e63-bca4-41b1-ab32-027032500f8e.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511533-0d5288c9-7c1b-4e1b-8325-579568463fb7.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511577-994f0b8f-92c5-4c3b-9a92-4725e6b760c2.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511658-eb613c8d-79fd-4c37-89f2-38ab2b6d6214.png">
+
+   
 </details>
 
+
+
+<details>
+<summary>Head & Shoulder</summary>
+<br>
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511709-ea9e9841-a882-4464-86a0-6e594bcf7014.png">
+
+   - example
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511809-d180ebf4-7782-44d5-8d22-e9f68284a9ce.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511912-915630f2-e13c-4584-a579-e0ed52a1c64a.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201512023-b155ad4b-7df0-496b-b115-0e92e04ce583.png">
+
+   
+</details>
+
+
+<details>
+<summary>Box Range Breakout</summary>
+<br>
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201512126-ede63a20-3333-495c-9925-86c86cd8443c.png">
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201512538-04a48503-363c-495b-b8d2-5837f5dac980.png">
+   - example
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201512583-d284ae07-29d6-443e-b7c8-7453f9893b94.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201512596-6d86e844-b189-4565-9635-ff09a53f59d9.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201512623-7a38ff8a-5695-4359-ad53-f223ba00431c.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201512714-7c4a97a5-60dc-4a7c-97b7-ba203de5ad20.png">
+
+   
+</details>
 
 <details>
 <summary>Notes</summary>
 <br>
  
    - a weak trend is signal for trend reversal
+   
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201512136-d52cf6d0-a131-4cc9-8a19-62cca789d9ca.png">
+
 
    <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201507686-75b24aff-4107-403d-a88f-b8951ceafedb.png">
 
@@ -109,6 +162,11 @@
 
   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201510500-06990ac6-33b1-4f43-b6ba-6ca9a34c8ee3.png">
 
- 
+  <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511500-f02f1a3d-3752-47b6-bc56-2ed913fd2d74.png">
+  <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511530-02d6c6de-9715-43bc-92ae-49ffc8a439c9.png">
+
+   <img width="1482" alt="image" src="https://user-images.githubusercontent.com/75510135/201511568-95280932-c834-45f1-96b4-c098bb899420.png">
+
+      
 </details>
 
