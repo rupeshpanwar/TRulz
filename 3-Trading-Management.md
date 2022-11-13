@@ -1,5 +1,8 @@
 
 <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201516556-75274c78-8083-4aac-8696-aa6e17429410.png">
+<img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201517859-1d32fe5c-e7ea-43b3-bd08-b66fea323d33.png">
+<img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518486-2185624a-ec1c-4099-b6e8-4e90c59dbe67.png">
+
 
 <details>
 <summary>Traids- being Chemilion</summary>
@@ -120,17 +123,45 @@
 
   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201517319-8ea4da2b-4675-4b56-8064-ce79886d1b74.png">
 
-  
-  
+   - Trailing Stop Loss , round off most of the position and hold some until next signal
+  <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201517682-33b92f27-6d47-4761-a5cc-0b8d369261b2.png">
+
+   
+  <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201517775-686a48c1-044d-4c5d-958e-0a79de47e2e9.png">
+
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201517786-42628f82-9ebc-4083-8ef0-ca25fe855b52.png">
+
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201517835-757bb477-aeeb-4e2f-9e28-e0ff9e6a88ec.png">
+
 
    
 </details>
 
 <details>
-<summary>Risk/Reward</summary>
+<summary>Trading Journal</summary>
 <br>
 
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201517852-3d47b73d-a528-45ab-b10e-cb1b1d19a13d.png">
 
+   - 1st example
+  <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518031-b20ccab2-f68c-487f-ac3d-4d6cc8875747.png">
+  <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518046-d36e4a57-2983-4e90-a4db-e269a29ea62e.png">
 
+   - 2nd example
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518154-bc307837-4f92-4028-87f4-a652fff3a0b4.png">
+
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518275-70afd21c-9b6d-4f4e-84f2-f4273cf6c842.png">
+
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518314-73460448-c1bb-460c-9a50-f1dbaf67afb5.png">
+
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518385-deb4adcf-5954-4428-8595-32914d10f679.png">
+
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518401-4b1d27d9-0254-443f-8258-23a923888d97.png">
+
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518416-1f1b63cf-aad6-45b5-a7f7-a6b9c0eb2332.png">
+
+   <img width="1416" alt="image" src="https://user-images.githubusercontent.com/75510135/201518466-1a6bb838-0b66-437a-b588-5a75be41c481.png">
+
+   
    
 </details>
