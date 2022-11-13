@@ -312,7 +312,53 @@
 <br>
 
     <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501608-5d890257-4ad9-444c-a108-d9aa0e4307ee.png">
-    
+    <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502423-0f514539-b1fd-4fb7-b2cf-f6892452b21f.png">
+
+    - example
+   <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502496-47ee2f9c-d46c-495c-8f88-856ce83a79b6.png">
+ 
+   <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502566-2236e42a-caa5-43b4-bec7-3ac6b1fc595e.png">
+
+   <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502599-810b6a83-b275-40f8-bcd5-c8f230fee201.png">
+
+ 
+</details>
+
+
+<details>
+<summary>Bull Sash</summary>
+<br>
+ 
+  <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502616-de1f3eb7-9337-4b3d-98a4-52c5b5bee968.png">
+
+  <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502667-105ba863-465f-4202-94dd-819f878c0813.png">
+
+  - example
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502711-a7309500-3a96-4040-8381-365a135ca8b5.png">
+
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502738-43b27bd8-9ba0-4ee1-bac8-dd67745a2489.png">
+
+ 
+</details>
+
+<details>
+<summary>Bull Separating Line</summary>
+<br>
+
+   <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502768-3cfa2065-4b8a-4913-8e7c-9d9901e94434.png">
+   <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502871-cb259bbb-a69e-40a9-96a4-de262be759ed.png">
+   
+   - example
+    <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502912-ef3c916c-7bd3-408a-b684-e9338ab4879b.png">
+
+    - this trade should not be taken
+    <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201502972-d4671bee-b07b-4aa9-a77c-a19df4131468.png">
+
+    <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201503010-483afc42-7bc6-4793-a1de-2053b9ef4cef.png">
+
+   <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201503020-41837c99-0231-4208-916e-6fc77ee16017.png">
+
+   
 </details>
 
 
@@ -328,20 +374,8 @@
 
 </details>
 
-<details>
-<summary>xyz</summary>
-<br>
-
- 
-</details>
 
 
-<details>
-<summary>xyz</summary>
-<br>
-
- 
-</details>
 
 
 <details>
