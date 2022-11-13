@@ -117,18 +117,6 @@
 </details>
 
 
-<details>
-<summary>Notes</summary>
-<br>
-
- - if resitance is broken then it acts like a support in case of a breakout
- -  Bullish Engulfing Pattern confirms the SUPPORT 
- -  Bearish Engulfing Pattern confirms the Resistance
- 
- <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478401-373c2070-b988-4ea5-9e4c-efd1d2c2eefd.png">
-
-</details>
-
 
 <details>
 <summary>Advance Single and Blended Candles </summary>
@@ -275,9 +263,70 @@
 
  <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201480316-e9039146-0812-4e1d-89bd-c5adcf3b0e01.png">
 
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501031-7cda1589-4b3b-4af2-b655-9027a903415f.png">
+
+ - example
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501060-b04def9e-360b-4a6a-b389-b20b5b1616f3.png">
+
+ 
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501112-99af1711-2265-4f00-ae7b-443da72d5da0.png">
+
+ 
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501134-ce3a4804-eb8e-4cfa-8957-6169c1a3edb2.png">
+
+ 
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501186-6393eae2-bcd6-444b-bdbb-1c3b8333f0ce.png">
+
+ 
  
 </details>
 
+
+<details>
+<summary>Bullish Engulfing Pattern</summary>
+<br>
+
+  <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501205-6e7cf443-e77c-4658-9bfe-89ce554bfc3b.png">
+
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501260-9ef9c300-212b-4bd3-a58a-b806b8c49d5d.png">
+
+ - trend importance
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501333-e3b4c572-03a0-4e20-aef4-0ec41ddd7dc6.png">
+
+ - example
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501384-6d1e8d3c-c11e-4405-ad79-9118a8068cd4.png">
+
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501459-77f98e30-3a16-4ea9-a46d-07b1e7a4a0ac.png">
+ 
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501480-53ae3f1f-665a-4ecd-92ed-26d47e83d728.png">
+
+ <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501584-543a243e-9e3c-47fc-bf6b-73434c224975.png">
+
+ 
+</details>
+
+
+
+<details>
+<summary>Bull Harami</summary>
+<br>
+
+    <img width="1485" alt="image" src="https://user-images.githubusercontent.com/75510135/201501608-5d890257-4ad9-444c-a108-d9aa0e4307ee.png">
+    
+</details>
+
+
+<details>
+<summary>Notes</summary>
+<br>
+ -  think about Risk/Reward, Trend & Type(candleStick formation)
+ -  if resitance is broken then it acts like a support in case of a breakout
+ -  Bullish Engulfing Pattern confirms the SUPPORT 
+ -  Bearish Engulfing Pattern confirms the Resistance
+ 
+ <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478401-373c2070-b988-4ea5-9e4c-efd1d2c2eefd.png">
+
+</details>
 
 <details>
 <summary>xyz</summary>
@@ -301,4 +350,3 @@
 
  
 </details>
-
