@@ -362,6 +362,193 @@
 </details>
 
 
+
+<details>
+<summary>Now - Bearish-Counter Attack</summary>
+<br>
+
+ 
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503197-04f1fb9f-4ab2-4078-99d3-90146f78447d.png">
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503269-376dba43-9e56-49b5-94bd-3e854cfdfd8c.png">
+
+   - example
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503284-c721cf08-4bb4-4a68-89a4-e225bdc384fb.png">
+
+ 
+   
+ 
+</details>
+
+
+
+<details>
+<summary>Bearish - Dark Cloud Cover</summary>
+<br>
+
+  <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503338-3b93e4ad-bff3-4215-8bff-533ff97ccf2d.png">
+  <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503430-d0a21dbb-9461-4392-840c-554fb8360783.png">
+
+  - example
+  <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503463-ed5617c1-0546-45ca-9d37-47b4e7dd9e0c.png">
+
+ <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503486-5b8dac9c-c8ba-420c-8591-fe30a9341e12.png">
+
+ <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503524-2abc0912-6ae4-4cde-a0a8-9f2649c1c1c3.png">
+
+ <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503644-d9467c7e-81b5-4980-a47b-aa1c02df5c75.png">
+ 
+ <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503741-fc5aace1-d286-46e3-8c4b-9ea35364482f.png">
+
+ <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503770-e73f2d59-211b-44c0-b2c6-28cbead7219a.png">
+
+ 
+</details>
+
+<details>
+<summary>Bearish - Engulfing Pattern</summary>
+<br>
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503776-d9c0c564-131d-4527-8914-8cec92873552.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503798-393869ae-b468-4941-9936-73526af3f1af.png">
+
+   - example 
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503822-c7cc571f-b5cb-47f5-90f0-0f380991beaf.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503913-47d7983b-1600-479b-bab5-845916af7bcc.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503963-8dd031a4-cfe2-4317-bab8-85e6850f1e43.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503996-4bfe2d18-288c-46f3-aa03-f0c71181ae43.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504032-2113f7bc-b8f8-4e39-b0e2-0c3b580c8fc0.png">
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504085-048a95f1-379f-4917-84b6-fb6d4aef1ffc.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504113-c4940eac-5e17-4ea1-a747-13381226f939.png">
+
+ 
+
+</details>
+
+
+<details>
+<summary>Bear Harami</summary>
+<br>
+ 
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504151-78fee6de-c8c8-4533-b8e2-72cafc50c2b8.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504175-e22a72a4-2c05-4847-a250-68ef330dc0b6.png">
+
+   - example 
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504197-61762b65-ad55-4be9-8973-46e61e0ba700.png">
+
+   
+</details>
+ 
+
+
+<details>
+<summary>Bearish Sash</summary>
+<br>
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504267-95199366-3b0f-499e-ab54-51497e96027a.png">
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504276-6246650f-3477-482d-b9f9-e16acad3bf28.png">
+
+   - example
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504301-e65566e3-46bb-46f2-aabf-24f145f4d992.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504308-09d538a8-1504-4e72-9e33-9c0aa2318e15.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504339-a06207de-ef9a-4bfe-98c9-635ec28ab736.png">
+
+   
+  
+</details>
+
+
+
+<details>
+<summary>Bear Separating Line</summary>
+<br>
+
+    <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504378-2a3540fd-225a-4312-b3fc-bed835bd4aba.png">
+    <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504439-b52e68af-8414-44b2-9dab-f1db93d993e2.png">
+
+    - example
+    <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504469-9e25e811-b4d7-4eeb-a925-8133721cccf5.png">
+
+    <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504472-769fca82-30ae-4d66-a4a2-679fe49f4e61.png">
+
+    <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504493-a7154499-2719-425a-b678-a0fd0228f09f.png">
+
+    
+</details>
+
+
+
+
+<details>
+<summary>Advanced Windows</summary>
+<br>
+
+  <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504550-7fac360b-dc83-461b-b717-08fdc033ed3a.png">
+
+  <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504602-c038e090-8611-4146-981b-4dfabbe81eac.png">
+
+  - example
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504630-7439130a-a3db-4854-8a6d-f82450949ff4.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504643-05013813-2014-44a3-900d-f7f6dbc18f26.png">
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504675-8a285920-5781-4bd9-99c5-b28e559d0584.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504717-da6b5f95-dc2d-4ab2-b7c6-7ad4820bbe9b.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504774-cb343fbb-e4c8-4cc9-b888-18038c86f5b9.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504823-33e75720-a9a3-411f-83ba-f1c180a0c4b5.png">
+   
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504944-745e058b-f6ce-4713-8ae0-a3a87da11794.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201505024-95513076-1654-4972-9064-7497a8d8172c.png">
+
+ 
+  -  Window continuation
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201505313-4bc1cddc-9743-4be4-9670-bfe550c9f263.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201505354-a064768e-725f-4d12-8832-7ef7d0ee4450.png">
+
+   
+   
+</details>
+
+
+
+
+<details>
+<summary>Island Tops , Bottom and Candles</summary>
+<br>
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201505051-3aab03d5-7d06-4289-afb2-bae1d8a829e4.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201505110-5f02de3a-0b1c-4ec0-a87c-fd559dc7acb4.png">
+
+   - example 
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201505184-be7b607f-a833-4b62-a5a0-6520341d92e6.png">
+   
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201505212-e4732cb0-8c55-43eb-90d8-84d9cb3f46fd.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201505258-b77bd714-4c2c-49d5-a50e-e4aa70a109fd.png">
+
+   <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201505289-b88802c6-7af2-45b5-a814-503d98874bc5.png">
+
+ 
+   
+</details>
+
+
+
+
+
 <details>
 <summary>Notes</summary>
 <br>
@@ -371,8 +558,15 @@
  -  Bearish Engulfing Pattern confirms the Resistance
  
  <img width="1549" alt="image" src="https://user-images.githubusercontent.com/75510135/201478401-373c2070-b988-4ea5-9e4c-efd1d2c2eefd.png">
+ <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201503183-d59aaa3e-d7e8-43fc-9e2f-2172b17d6f9b.png">
+ <img width="1483" alt="image" src="https://user-images.githubusercontent.com/75510135/201504842-aee2a3f6-a991-495c-ba2f-52fbc510074f.png">
 
+
+
+ 
 </details>
+
+
 
 
 
@@ -384,3 +578,24 @@
 
  
 </details>
+
+
+
+
+<details>
+<summary>xyz</summary>
+<br>
+
+ 
+</details>
+
+
+
+
+<details>
+<summary>xyz</summary>
+<br>
+
+ 
+</details>
+
