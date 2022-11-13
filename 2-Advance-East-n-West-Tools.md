@@ -180,13 +180,6 @@
 </details>
 
 
-<details>
-<summary>Box</summary>
-<br>
-
-  
-   
-</details>
 
 <details>
 <summary>Notes</summary>
