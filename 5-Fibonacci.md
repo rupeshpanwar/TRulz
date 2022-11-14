@@ -277,19 +277,55 @@
 </details>
 
 <details>
-<summary>Live Trading Lessons</summary>
+<summary>Money Management</summary>
 <br>
 
    <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201560599-13bd72a7-2607-4c6f-9283-5f8395c85d03.png">
+
+  -  Money Management
+   <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201587339-82452374-fb86-4403-b863-d12b951bf0f8.png">
+
+  - STOP LOSS
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201587523-854742b8-1cb1-4e3a-a772-c35572a10a8b.png">
+
+  - example
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201587701-78fdb193-c4c5-4e47-84d0-6e0931b82738.png">
+
+  - Taking profit level
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201587776-cd8c2523-dda7-4143-93aa-822620c9816f.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201588106-99b5b514-31d6-42b3-abe0-b38c1d2aca84.png">
+
+  - Risk per Trade, max 2% of the account
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201588243-8d48e334-ce92-4feb-8634-352354b1910a.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201589914-dc10a7f1-14c1-407e-b25b-26a7cea46654.png">
 
   
 </details>
 
 <details>
-<summary>Title</summary>
+<summary>Live Trading - Examples</summary>
 <br>
 
+  - 1- on H1 chart , draw Fib retracement , Lowest Low to Highest high (Uptrend move)
+  - mark 2 level in Fib ret
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201590776-cc1b9e5f-a46b-4e75-9e42-fd950b278d2d.png">
 
+  - next move the FR to next higher low to mark Fib Zone
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201590944-0a581ac5-ad9b-4fc5-a047-8b07d6d91207.png">
+
+  - next move FR to next higher low and mark the FZone
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201591528-a79957a0-7ae9-483d-90ab-75e3887f0ddf.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201595879-b3906a23-77a9-4fe0-8574-44d59368f968.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201596094-f03a4c19-dd38-4a87-9f27-e1c5c5e25349.png">
+
+  - sometime use Fib Expansion
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201597768-1045bb7f-3254-4f2a-9a40-9f36200a7e77.png">
+
+  
   
 </details>
 
@@ -303,6 +339,8 @@
 
   <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201554939-ab17b2e9-515c-42f3-b3cc-5ebc9f229ceb.png">
 
-  
+  - Money Management
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201587316-0c2e6441-c19b-4b13-91fd-b72f0130f6e9.png">
+
 </details>
 
