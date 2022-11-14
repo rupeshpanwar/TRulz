@@ -85,19 +85,73 @@
  <img width="1149" alt="image" src="https://user-images.githubusercontent.com/75510135/201672335-450d4823-2231-4161-ae49-d95bf070d23d.png">
   
   
-  
-  
-  
-  
 </details>
 
 
 
 <details>
-<summary>Title</summary>
+<summary>CadleStick Patterns</summary>
 <br>
 
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201684540-fc5b7310-9bcf-469d-bfb7-335fd4789427.png">
 
+  <img width="1097" alt="image" src="https://user-images.githubusercontent.com/75510135/201685061-26f15a19-d6a4-46cd-9471-cdea700bd25b.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201685209-dae44b19-2508-44e4-bbba-c14aac403256.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201685656-ca4cac6c-b8a8-4faa-baf1-1705f43faf4a.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201686665-99888fa8-2da1-438d-adfa-e26906cb95e5.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201687186-aabf3068-b36f-4183-be3f-35e30a0a1eb1.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201687536-b87659d1-beff-47fb-a148-10aa961447b3.png">
+
+  
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201687864-617c82e6-8dea-4aa1-aaef-497561ad3471.png">
+
+  
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201689831-3b72f302-450f-4a08-9c2d-1f4e6ff8dbf9.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201690520-58d2b968-a44e-4ad6-9fa3-6f5d60b9c7ba.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201695037-acd2b1ff-2f8b-4085-9f0c-fef7156a20eb.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201695196-9d2da78d-cc78-4d84-8bfe-ce8f8b626c69.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201695274-f05bbf22-027b-4503-a8cb-7a89a2244891.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201695343-38a8944c-d922-4250-9c27-f340a4671954.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201695388-eaf02f19-ecb1-4088-b30e-6512724c88a5.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201695637-e7b6d7d1-758e-416f-ab0d-6c0e948886d4.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201696192-d33181c6-24e8-41a5-bda5-8b65df640d96.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201696378-03770113-595a-49a2-9fe8-3fba97a26086.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201697029-b38cb477-863b-4664-89ef-5bb735645b1b.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201697614-83b4bfe7-0f3e-42d6-889b-f9cbe4916f88.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201698418-f4e656c1-fb20-442a-90f3-80d7438e46b6.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201698517-89e7b0fe-152f-4da6-a8f5-75a5c203d87b.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201698670-b5d54210-afbd-4e25-8f6c-865e59f042fa.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201698808-4ce76046-9060-42a6-b88f-115b2eb94918.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201698988-b3c9958d-1ab7-4dd6-a220-ddc180afb4ec.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201699036-3ea7aec6-7c62-4600-9beb-edcedcfb7e32.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201699123-1e758249-c139-4aa2-8a2a-df4b00e9f1bb.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201700021-6ea5c77c-4fee-467b-8013-3ae12b0cef17.png">
+
+  
   
 </details>
 
