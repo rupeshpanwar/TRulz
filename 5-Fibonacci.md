@@ -145,6 +145,134 @@
   <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201534795-d3e343ce-80e7-4d32-9be6-90a4daf4144a.png">
 
   
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552030-f7c03be0-359c-4275-8240-f749887568c5.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552046-3d73cb0a-7db8-41b5-9dd5-76acf46b0a71.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552231-0ff5c311-3fcd-4bae-8086-6473f768dca7.png">
+
+   - example
+  - first draw Fib lowest low to recent high and check the line where support next to previous break
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552589-118b7fa0-659f-4517-930e-d496a9dedcb5.png">
+
+  - is this good level support , check the number of times it has provided support
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552626-ef7b7169-1f18-4867-952a-d7e98baa247c.png">
+
+  - then move the fib to higher low and mark the lines
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552684-fac27e62-ea3f-41d8-8d82-335d3e0f614c.png">
+
+  - then move the fib to next higher low and mark the lines
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552762-8bc9db30-d818-44ed-be4f-07c879eec11e.png">
+
+  - then draw a trendline connecting minimum 2 lows
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552818-6cbb589b-48b7-4231-89dd-3316bc8592aa.png">
+
+  - then RSI(14 days)
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552863-2930dd71-f764-40d7-8d7c-2f664e0a06fc.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552937-7083a147-34bc-42a3-bb90-66718ba2c082.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552947-106015c6-cbdd-4e3e-9324-66b893c0110d.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552983-808618fa-c8ff-4a74-8143-97ff3beb131c.png">
+
+  - example 2
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201554515-efde7f4b-ab46-4a27-af3d-d668d0691a65.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201554626-555c798e-59c5-43c4-8102-d656610c0d4a.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201554673-4addc41c-7b01-47ee-84a0-f090b801d2f5.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201554758-92a7830a-c91b-4e11-9432-1fd0652c7f69.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201554802-1fbb3f57-34e6-425d-91c5-f6e337d0c766.png">
+
+</details>
+
+<details>
+<summary>Fib Additional Tools</summary>
+<br>
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201555420-053d6a97-0589-4d17-a1dd-04823e3a9d7b.png">
+
+  - Fib Time zone
+  - draw Fib Time zones, with lowest low to it next recent high ( in upward trend)
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201555688-45820e8a-50e5-4586-9ce9-729c5de1e67d.png">
+
+  - then draw fib retracement , from low to recent high(in upward trend)
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201555766-e3fb3333-51cd-4876-8c9e-006eb881dafb.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201555831-d961027b-f9ad-49e6-8fbb-0379ba471691.png">
+
+  - Next, Fib Fan
+  - draw Fib Fan, from Low to recent high 
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201556265-b23d2497-57cc-452a-a797-47279b454323.png">
+  - draw Fib Fab , from high to lowest low
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201556310-3f245ef6-1930-4117-9fdf-6b02b1c8e410.png">
+  
+  - now draw Fib retracement and a veritcal line
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201556410-717eecd4-d1ce-47f9-ada1-3d87ac9047db.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201556433-27ca1679-f9b2-4708-aa8a-f6957981116b.png">
+
+  
+  
+</details>
+
+<details>
+<summary>Fib Expansion</summary>
+<br>
+
+  - used mainly for profit target
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201556833-922d53d0-9087-490e-98c8-1c353782482e.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201556914-6a6c5b22-9092-4bdc-b343-e5a6ec5f13fe.png">
+
+  - Fib Expansion tool , redraw correction line
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201557024-7c3ccef2-e212-4a77-b064-404de7aa0c42.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201557120-eb622bdf-d6aa-4e70-987c-ae367649f5a7.png">
+
+  - example
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201557183-aaea943c-7038-464a-80f3-045c06ce8fe5.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201557388-4c9fe24b-a726-4ee0-8477-98c0ba8b60d7.png">
+
+  
+  
+</details>
+
+
+<details>
+<summary>Preparation for Trade</summary>
+<br>
+
+  - find a clear trend , up/down trend before getting into trade. Choppy trend should be avoided
+  - never force a trade
+  - place buy limit order , when trend is up
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201558525-fafdf965-012d-4e9b-9c6d-e47a99d69595.png">
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201558619-d3c30efb-95d0-4944-ac29-7c56dc17a3c9.png">
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201558700-531f71c7-8a57-4e7e-b8ec-16e3a61aff7c.png">
+
+  - place sell limit order , when trend is down
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201558997-d48ff101-9a76-401c-b75c-9392cf2254c0.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201559071-8ae26be6-c6cc-456d-a129-c3dba3ad00bd.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201559139-25bfa222-da84-4075-a0fd-cd9a41939a8a.png">
+
+  - use RSI as a filter for Trade confirmation [should not be used as standalone tool]
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201559648-15b6ac15-f93a-43a4-80e5-c4fa433ef0a9.png">
+
+  - use RSI divergence, to see bullish / bearsh buy/sell
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201559805-aca2f4e6-d2cc-4940-800e-b665e6c200fa.png">
+  
+  - Economic calendar
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201560274-bc3d039e-763f-4724-956c-d4ada4eaf186.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201560387-c4695308-874f-4ba8-a0f6-41b55c68e7bf.png">
+
+  
   
 </details>
 
@@ -160,6 +288,19 @@
 <summary>Title</summary>
 <br>
 
+
+  
+</details>
+
+<details>
+<summary>Notes</summary>
+<br>
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201552235-756a4721-f6e8-4b67-971d-6948103a3d1d.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201554811-8bc1a382-8e81-40e9-9255-4cbf62755441.png">
+
+  <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201554939-ab17b2e9-515c-42f3-b3cc-5ebc9f229ceb.png">
 
   
 </details>
