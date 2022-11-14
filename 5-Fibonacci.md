@@ -277,9 +277,10 @@
 </details>
 
 <details>
-<summary>Title</summary>
+<summary>Live Trading Lessons</summary>
 <br>
 
+   <img width="1392" alt="image" src="https://user-images.githubusercontent.com/75510135/201560599-13bd72a7-2607-4c6f-9283-5f8395c85d03.png">
 
   
 </details>
