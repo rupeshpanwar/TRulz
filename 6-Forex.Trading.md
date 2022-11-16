@@ -1,3 +1,5 @@
+<img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202055886-a28d54b7-b237-4fee-82bb-6181d9d26c96.png">
+
 
 <details>
 <summary>Basic Candles</summary>
@@ -152,6 +154,97 @@
   <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/201700021-6ea5c77c-4fee-467b-8013-3ae12b0cef17.png">
 
   
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202051559-361e8ad5-5ee6-4087-b599-008be7a5a813.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202051853-b7cebf6d-e612-45ec-901c-b62427b8fe2b.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202052249-07df747a-5600-470e-9dab-fbf1e7db849b.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202052506-484c5097-fd3e-4cba-a6d4-4b112cc12c96.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202053159-c3d91285-6492-4f7b-8241-49c85023a22a.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202053208-b4c5d560-8162-4f4e-b4c5-29a0d9a9a596.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202053233-05b19e99-426c-4be1-8a53-d4fce68552fb.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202053255-80470eb1-6a38-4ba5-b213-e4d4d5d6a724.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202053282-5373eaf8-a791-4c50-956f-bbc09642c281.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202053383-25bcb015-67e7-4c5f-85be-d3c28828fe4f.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202053489-5e0c8f68-858b-4609-bcd4-b7d081c73daf.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202053664-626f000f-d706-452e-afd7-23d52b1e846b.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202053875-5f85f120-b6e4-4cdd-82e5-bb11848e0a01.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202054156-e52a162f-2c08-4537-9cbd-1a0f48791107.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202054228-d1a8c4d7-b26e-4496-b8eb-f378c16a7858.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202054262-ddd36e11-3001-4c93-87c3-f664552f671c.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202055377-213131aa-b1b7-40a5-bcec-7b324236a4b3.png">
+
+  
+</details>
+
+
+<details>
+<summary>Anagram</summary>
+<br>
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202056004-f9422ded-f907-4a16-9dff-d835545f2670.png">
+
+   - R/R
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202056461-2e6755ae-5653-4f51-a9df-493313805d47.png">
+  
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202057051-47a2476d-08ac-4dd1-a435-31b0397e135d.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202057167-faa1842a-dab4-4e38-b8b8-4c28f92f0b0e.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202057313-a35dd42c-75ac-4e9d-85d4-1d32d22a4ab7.png">
+
+  - If..then , time or price , GET OUT
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202058777-d1b77c3e-add6-405c-b616-5ad2d992e45c.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202059171-80afdaba-413d-41d7-a1da-7fc5d83a2405.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202059365-e22758f1-1058-4d56-afc4-7e1c24f22b1c.png">
+  
+  - STOPS
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202059848-9ea12703-5216-463e-a0a0-087da8bc2155.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202060136-ec3b8c3b-db07-4446-95ce-23bc11fd61ac.png">
+  
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202060234-547d127f-9828-4f28-9a2f-f7fe2d0f0deb.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202060366-a72f4af4-5084-458c-8747-eec769cd0729.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202060655-03ebd39c-c6e7-403e-97d2-85e9d4513044.png">
+
+  - Indecators
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202061293-b71694fd-134b-4d0f-ae24-5a6867f0eebe.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202061307-5ccd475c-667d-4528-a420-b6aecb5befd5.png">
+
+  <img width="1141" alt="image" src="https://user-images.githubusercontent.com/75510135/202061397-3f41a9d4-36bc-497e-9d0c-2cc43454fadd.png">
+
+  
+  
+  
+  
+  
+</details>
+
+
+<details>
+<summary>Title</summary>
+<br>
+
+
   
 </details>
 
