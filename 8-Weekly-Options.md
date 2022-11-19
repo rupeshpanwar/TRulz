@@ -5,27 +5,69 @@
   <img width="723" alt="image" src="https://user-images.githubusercontent.com/75510135/202854326-1dfa0514-98df-4301-8e02-44ca0f2e226e.png">
 
   - Analysis of the **Calendar** trade using Weekly Options
+  - ATM options
   - **Sell** 12 days later call option
   - **Buy next month** (40 days) same date call option
   - Example - APPLE trading at 560 currently
-  <img width="589" alt="image" src="https://user-images.githubusercontent.com/75510135/202855253-7e19aa3d-16ac-4e2a-afa7-de26074d2a1f.png">
   - buy a calenday spread
-  <img width="963" alt="image" src="https://user-images.githubusercontent.com/75510135/202855335-243587a5-4e9d-4680-8c9a-ae355b1a7657.png">
-
+       - sell june 12 @560 PUT
+       - buy july 12 @560 PUT
+       
   - check Delta and Theta Value
-  <img width="995" alt="image" src="https://user-images.githubusercontent.com/75510135/202855636-abbefe6f-650c-472f-9e1d-e02afe742362.png">
-
-  <img width="1003" alt="image" src="https://user-images.githubusercontent.com/75510135/202855692-b95f4e42-d967-4bdb-bb9f-1725fbdd8bde.png">
-
+ 
+  
   - profit / time chart
-  <img width="984" alt="image" src="https://user-images.githubusercontent.com/75510135/202856126-4ecac537-5774-4439-b3ff-2251690d7e6d.png">
-
-  
-  
   
   
 </details>
 
+
+<details>
+<summary>Iron Condor</summary>
+<br>
+
+  - 2 spreads
+  - directional neutral strategy but purely time decay
+  - look for delta 20
+  - suppose Apple is trading at 560 then
+    - PUT Sell
+     - Sell June 530 PUT
+     - Buy June 520 PUT
+   - CALL Sell
+    - Sell June 590 CALL
+    - Buy June 600 CALL
+  - Adjust the strategy , in case stock goes down then buy a put of next month
+  
+</details>
+
+
+<details>
+<summary>Short Strangle</summary>
+<br>
+
+  - Sell 1 Call and 1 Put, both OTM
+  - Look for below 10 delta option
+  - say Apple is trading at 560 in June b4 weekly expiry ,then 
+     - Sell June 590 CALL (OTM)
+     - Sell June 530 PUT  (OTM)
+  - Good place on Friday morning and square of on Monday morning to take the advantage of weekend time
+  
+  - Theoritical price will tell what price gonna look like 
+  - SUPPOSE APPLE moved to 585 on the day of expiry then, you will collect all the premium ie total premium will be PRoFIT
+   - All the PUT below 585 => 0
+   - All the Call above 585 => 0
+  
+  
+</details>
+
+<details>
+<summary>High Reward Potential Trade</summary>
+<br>
+
+    
+
+  
+</details>
 
 <details>
 <summary>Title</summary>
@@ -34,3 +76,16 @@
 
   
 </details>
+
+<details>
+<summary>Title</summary>
+<br>
+
+
+  
+</details>
+
+
+
+
+
