@@ -165,7 +165,10 @@
  - SELL 300 CALL  
  - max profit = .45 => 1-.55(credit)
   
-  
+- say IWM is trading at 118.27
+  - Buy 117 CALL
+  - Sell 120 CALL
+  - looks for max 50% of profit to book the trade  
 
 
  Eg. Selling the veritical
@@ -175,32 +178,32 @@
  - BUY 392 PUT  
  - max profit = .40 (credit)
   
+- say IWM is trading at 118.27
+  - BUY 123 CALL
+  - SELL 120 CALL
+  - looks for max 50% of profit to book the trade
+  
   <img width="865" alt="image" src="https://user-images.githubusercontent.com/75510135/202889687-378e47d8-9d82-4807-949a-d605eb688bb2.png">
 
   - Check IV, if high , then sell . If Low , then buy
   <img width="1109" alt="image" src="https://user-images.githubusercontent.com/75510135/202890219-b26afb9a-3fa0-4bc9-ba7a-4a686e94c68e.png">
 
+- Rule 
+  - Trade small
+  - Drawdown effect(how much loose, 2*you need to make)
+  - Position size , loss should be = 1% of account on buying , & 2% in case of selling vertical
+  - widen the strike
+  - Trade more often( number matters)
+  - Wealth creation: Discipline 
+  - Duration over direction(time to be right)
+  - Close before Expiration Day
+  - Managing winner , Less % of Profit = more POP
+  - Diversification , pick stock from different sectors
+  
+  
+ 
   
 </details>
-
-<details>
-<summary>Title</summary>
-<br>
-
-
-  
-</details>
-
-<details>
-<summary>Title</summary>
-<br>
-
-
-  
-</details>
-
-
-
 
 
 
