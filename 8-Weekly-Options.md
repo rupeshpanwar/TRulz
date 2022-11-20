@@ -3,7 +3,8 @@
 <br>
 
   <img width="723" alt="image" src="https://user-images.githubusercontent.com/75510135/202854326-1dfa0514-98df-4301-8e02-44ca0f2e226e.png">
-
+ 
+  
   - Analysis of the **Calendar** trade using Weekly Options
   - ATM options
   - **Sell** 12 days later call option
@@ -38,6 +39,9 @@
     - Buy June 600 CALL
   - Adjust the strategy , in case stock goes down then buy a put of next month
   
+- look for IV Rank/Percentile above 50
+- optimal days to expiration = 45 days(30- 60 days)
+  
 </details>
 
 
@@ -61,13 +65,66 @@
 </details>
 
 <details>
-<summary>High Reward Potential Trade</summary>
+<summary>Bear Spread</summary>
 <br>
 
-    
+   <img width="615" alt="image" src="https://user-images.githubusercontent.com/75510135/202860366-aec372b6-0138-46f1-8a9d-161d095751b6.png">
+
+   - more theta , more profit daily
+  <img width="912" alt="image" src="https://user-images.githubusercontent.com/75510135/202862868-fa11b226-5be3-4c95-bbc3-2d107ec75fcc.png">
 
   
 </details>
+
+<details>
+<summary>Setting up the Trage</summary>
+<br>
+  
+  
+ => Sell at Higher price , buy at lower price
+- Select the stocks
+    - look for IV Rank/Percentile above 50
+    - optimal days to expiration = 45 days(30- 60 days)
+    - chose the strike
+     * short PUT ITM ( near 20%)
+     * long PUT lower strike price
+     * short CALL ITM ( near 20%)
+     * long CALL at higher strike price
+
+  ***** Note - look at wing width in console  
+  
+- Eg share , iwm, is currently trading at 109 then
+   - Sell IRON Condor at 
+     - Sell CALL 114  (lower)
+     - Buy CALL 117  (higher)
+  
+     - Sell PUT 103 (higher)
+     - Buy PUT 100  (lower)
+  
+- Analyze the trade
+  - Determine Risk / Reward
+  - max Loss should not > 3*Max Profit
+  - set price for break-even( to determine the probability of profit)
+  - POP should be around 60%
+  - in above example its 102 - 115
+  - calculate RoC ( return on capital)
+  - Exit the trade when profit is 40% of the target max Profit, that is 15% of ROC
+  
+- Normal distribution of market moves
+  
+  
+  
+</details>
+
+<details>
+<summary>Title</summary>
+<br>
+
+
+  - Theta => profit per day
+</details>
+
+
 
 <details>
 <summary>Title</summary>
@@ -77,13 +134,6 @@
   
 </details>
 
-<details>
-<summary>Title</summary>
-<br>
-
-
-  
-</details>
 
 
 
