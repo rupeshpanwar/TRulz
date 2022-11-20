@@ -122,7 +122,7 @@
 </details>
 
 <details>
-<summary>Title</summary>
+<summary>Definitions</summary>
 <br>
 
 
@@ -130,6 +130,66 @@
 </details>
 
 
+
+<details>
+<summary>Verticals</summary>
+<br>
+
+- Vertical deinfition
+    -  the combination of buying and selling a CALL
+  OR
+    -   the combination of buying and selling a PUT to a define risk
+  
+- Short Vertical
+  - selling a CALL or PUT 
+- Long Vertical
+  - buying a CALL or PUT 
+  
+  
+- Trading Rules
+  - Short sell Verticals
+  - Time
+     - Trade close to 45 days, never less than 30 days & prefer not more than 60 days
+  - Votality 
+     - if Volatility is > 50 , go with Selling the Verticals
+     - if Valatility is < 50 , go with Buying the Verticals
+     - List down the stocks with Volatility rank(high to low)
+  - Iron Condor
+  - Liquidity
+
+
+ Eg. Buying the veritical
+                            
+- say stock is currently trading at 299.40
+ - BUY 299 CALL
+ - SELL 300 CALL  
+ - max profit = .45 => 1-.55(credit)
+  
+  
+
+
+ Eg. Selling the veritical
+                            
+- say stock is currently trading at 397.50
+ - SELL 393 PUT
+ - BUY 392 PUT  
+ - max profit = .40 (credit)
+  
+  <img width="865" alt="image" src="https://user-images.githubusercontent.com/75510135/202889687-378e47d8-9d82-4807-949a-d605eb688bb2.png">
+
+  - Check IV, if high , then sell . If Low , then buy
+  <img width="1109" alt="image" src="https://user-images.githubusercontent.com/75510135/202890219-b26afb9a-3fa0-4bc9-ba7a-4a686e94c68e.png">
+
+  
+</details>
+
+<details>
+<summary>Title</summary>
+<br>
+
+
+  
+</details>
 
 <details>
 <summary>Title</summary>
