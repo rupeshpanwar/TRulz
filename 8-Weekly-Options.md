@@ -110,6 +110,11 @@
   - calculate RoC ( return on capital)
   - Exit the trade when profit is 40% of the target max Profit, that is 15% of ROC
   
+  
+- in case if Stock moved 1 side , say upside
+  - close the PUT (both)
+  - exit the remaining trade( CALL) , 5 days before expiry
+  
 - Normal distribution of market moves
   
   
