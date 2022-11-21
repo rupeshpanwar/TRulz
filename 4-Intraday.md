@@ -79,12 +79,18 @@ Screener - to list out the filter stocks for specific trading strategy
 
  Indicators
   1. 5 or 10 EMA
-  2. Bollinger Band
-  3. RSI
-  4. Volumne
+  2. Bollinger Band(setup 20, 2)   -  look for entry when BB starts expanding either side after sideways trading
+  3. RSI - (30 - buy, 60 - sell)(14 days, close)
+  4. Volumn - should be higher > double when entry has to be made
   
  <img width="595" alt="image" src="https://user-images.githubusercontent.com/75510135/202960452-90d4eac7-0090-4855-ae80-b5c3e632f019.png">
 
+- Trading single via Indicators, 5 mins timeframe
+  1. GAP screener - list out the stocks
+  - wait for right candle to sell / buy , BBand shall be used for resistance/exit signal
+  - in case there is a sharp candle outside BBand, it signals swing movement(reverse trading)
+  
+  
   
   
 </details>
