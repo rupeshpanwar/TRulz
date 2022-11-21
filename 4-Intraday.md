@@ -1,3 +1,104 @@
+<details>
+<summary>3 Mistakes & Cons of Day Trading</summary>
+<br>
+
+  Fail to 
+  1. choose the right stock
+  2. manage the risk
+  3. find right entry/exit
+  4. cap/cut the loss
+  
+  Disadvantage
+  1. PoL ( possibility of Loss)
+  2. Time Demanding
+  3. Attention driven
+  4. Stress and overtrading
+  
+  
+</details>
+
+
+<details>
+<summary>Types of DT</summary>
+<br>
+
+Types
+  1. Scalping => focus on very small profit
+  2. Fading => trading against a prevailing trend
+  3. Momentum => Join the move when stock price picks up , news & Volume
+  4. S/R level => make money with daily votality, 15 mins charts to tag S/R , 3-4 months range
+  
+  
+  
+</details>
+
+
+<details>
+<summary>DT - Preparation</summary>
+<br>
+
+Preparation
+  0. Chart should be 5 mins , 15min , 4h timeframe basis
+  1. R/R ratio => 1:2
+  2. find out the right stock
+  3. Postion size => account size(how much you need in your trading account) = daily target * 100
+  4. Calculate the risk => should not be > 2% of account size
+  5. determine trade size => max risk / strategy risk(say 0.5)
+  
+  
+Screener => Choose the right stock 
+  1. High Avg Volume(90 days) > 100k
+  2. High Relative Volumen > 2
+  3. Catalyst (Fresh and News)
+  4. Low to medium float => < 10M low float , 10-500M medium float , > 500M large float
+  
+  
+Scale out the trade
+  => Partially close the positions and let rest move further with market movement 
+  <img width="407" alt="image" src="https://user-images.githubusercontent.com/75510135/202944403-b75f99fe-94f3-4e2c-8ceb-ff86a79e9fe7.png">
+
+Screener - to list out the filter stocks for specific trading strategy
+ - Momentum TS
+  <img width="602" alt="image" src="https://user-images.githubusercontent.com/75510135/202953130-5f3aa4e3-fbe0-407e-8745-c2e06fd9d23c.png">
+ or another set of filter , in case , stocks are not listed in above criteria
+  <img width="689" alt="image" src="https://user-images.githubusercontent.com/75510135/202954656-2b5a1370-6eef-4bcf-be6a-eccf831cdc14.png">
+
+  
+- Reversal TS, add extra pattern filter , on 1day chart timeframe basis
+  <img width="830" alt="image" src="https://user-images.githubusercontent.com/75510135/202953529-3eef48eb-fef5-4920-b4e6-601773f70be7.png">
+
+  <img width="792" alt="image" src="https://user-images.githubusercontent.com/75510135/202953692-14724ca0-cb80-49ce-891c-2a278a30cafe.png">
+
+ 
+</details>
+
+
+<details>
+<summary>DT - Indicators</summary>
+<br>
+
+ Indicators
+  1. 5 or 10 EMA
+  2. Bollinger Band
+  3. RSI
+  4. Volumne
+  
+ <img width="595" alt="image" src="https://user-images.githubusercontent.com/75510135/202960452-90d4eac7-0090-4855-ae80-b5c3e632f019.png">
+
+  
+  
+</details>
+
+
+
+<details>
+<summary>Title</summary>
+<br>
+
+
+  
+</details>
+
 
 <details>
 <summary>Intraday Techniques</summary>
@@ -35,15 +136,6 @@
   <img width="1206" alt="image" src="https://user-images.githubusercontent.com/75510135/201530078-1f1cc16a-6e21-4f96-9485-9082c30dd6d5.png">
 
   <img width="1206" alt="image" src="https://user-images.githubusercontent.com/75510135/201530125-1404e8c4-94f5-4872-94a7-74e71fd7fc92.png">
-
-  
-</details>
-
-
-<details>
-<summary>Title</summary>
-<br>
-
 
   
 </details>
