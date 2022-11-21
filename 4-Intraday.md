@@ -69,7 +69,10 @@ Screener - to list out the filter stocks for specific trading strategy
 
   <img width="792" alt="image" src="https://user-images.githubusercontent.com/75510135/202953692-14724ca0-cb80-49ce-891c-2a278a30cafe.png">
 
- 
+- GAP TS
+  <img width="693" alt="image" src="https://user-images.githubusercontent.com/75510135/202993667-6056570e-8160-4dfd-8d9c-95bb605385aa.png">
+
+  
 </details>
 
 
@@ -89,8 +92,7 @@ Screener - to list out the filter stocks for specific trading strategy
   1. GAP screener - list out the stocks
   - wait for right candle to sell / buy , BBand shall be used for resistance/exit signal
   - in case there is a sharp candle outside BBand, it signals swing movement(reverse trading)
-  
-  
+ 
   
   
 </details>
@@ -98,10 +100,18 @@ Screener - to list out the filter stocks for specific trading strategy
 
 
 <details>
-<summary>Title</summary>
+<summary>DT - Scalping Strategy</summary>
 <br>
 
+- Chart used 5mins & 1min
+- R/R: 1:1
+  <img width="576" alt="image" src="https://user-images.githubusercontent.com/75510135/202986741-ef5c1373-b9bf-4eae-9088-276ee96b7da8.png">
 
+  <img width="731" alt="image" src="https://user-images.githubusercontent.com/75510135/202987326-1a35dfac-1681-4388-ae13-6b9fcb7f131a.png">
+
+  <img width="706" alt="image" src="https://user-images.githubusercontent.com/75510135/202987465-df135fb0-2e93-4579-b5d4-74e53a6fee90.png">
+
+  
   
 </details>
   
