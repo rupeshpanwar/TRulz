@@ -48,3 +48,70 @@
       
 </details>
 
+<details>
+<summary>Trade in Zone</summary>
+<br>
+   
+   
+   plan for a trade , take the responsibility in any case
+   ![image](https://user-images.githubusercontent.com/75510135/203886123-7acce9d7-8db0-46df-bb86-4fda9891c225.png)
+
+   winning attitude
+   ABCDF attitude Belief Confident Descipline Focused
+   ![image](https://user-images.githubusercontent.com/75510135/203886020-f76183a3-74a0-4fd2-a3aa-be34965ba9ae.png) 
+
+ ```
+   more rigid in rules but flexible in expectation
+   market always communicate in probabilities
+   neutralizer Emotional risk
+    1. anything cam happen 
+    2. you don't need to know what's going to happen next
+    3. random distribution of wins n losses at any given edge
+    4. an edge I'd nothing but an indication of higher probability of one thing over another
+    5. every moment in the market is unique
+   Belief > nature , properties n characteristics
+   chart patterns are example of an Edge
+ ```
+   ![image](https://user-images.githubusercontent.com/75510135/203885847-2daf6e3a-3601-406a-b713-600bb0ff7ad1.png)
+
+   ![image](https://user-images.githubusercontent.com/75510135/203885806-50a27664-25db-4c0d-965e-7393c7b4ee94.png)
+ 
+   ![image](https://user-images.githubusercontent.com/75510135/203885748-5f0c8cb5-d5e5-4248-ba70-1346ac3e7945.png)
+
+   ![image](https://user-images.githubusercontent.com/75510135/203885721-d8dfc2c9-bd2a-4322-afe1-611c254d4b35.png)
+
+   ![image](https://user-images.githubusercontent.com/75510135/203885695-459e29ad-18a6-45aa-a3ec-147e651e750c.png)
+
+   ![image](https://user-images.githubusercontent.com/75510135/203885658-fe7279ed-fd7c-4f1f-bd64-40a75d5a0d6c.png)
+
+   ![image](https://user-images.githubusercontent.com/75510135/203885628-4be73710-7322-40b8-8003-a66c35d483ef.png)
+   
+   ![image](https://user-images.githubusercontent.com/75510135/203885482-3511da49-a8a2-4a46-a31a-3fd23f290943.png)
+
+   ![image](https://user-images.githubusercontent.com/75510135/203885453-e59a05e0-70d3-45c3-86f6-cb45c51e9245.png)
+
+ Setting up the exercise 
+  1. pick a market
+  2. define the edge ( charts)
+  3. trade entry
+  4. stop liss exit 
+  5. Time frame
+  6. taking profit
+  7. risk reward ratio 
+  8. trading in sample size
+  9. testing 
+  10. accepting the risk
+  11. doing the exercise
+  
+</details>
+
+
+<details>
+<summary>Title</summary>
+<br>
+
+
+  
+</details>
+
+
