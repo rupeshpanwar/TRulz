@@ -33,8 +33,16 @@
 
 
 <details>
-<summary>Title</summary>
+<summary>Basics</summary>
 <br>
+
+  <img width="917" alt="image" src="https://user-images.githubusercontent.com/75510135/204421967-79fbed7d-1cb0-425d-8b51-cdc0078ac530.png">
+ <img width="991" alt="image" src="https://user-images.githubusercontent.com/75510135/204422361-a92122e1-f38a-4814-8598-375be5705003.png">
+<img width="1036" alt="image" src="https://user-images.githubusercontent.com/75510135/204422854-814c96c8-8e6a-4dec-8a40-b8f470fa7487.png">
+<img width="912" alt="image" src="https://user-images.githubusercontent.com/75510135/204423069-e175faf3-09bf-4e12-83c6-f085729b637e.png">
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/75510135/204424675-6acaa892-1926-4223-87e1-2240378a3e0c.png">
+<img width="963" alt="image" src="https://user-images.githubusercontent.com/75510135/204425625-f4f7826f-fa77-4e7f-ab86-2e729fac7ebc.png">
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/75510135/204425860-87618105-423a-4234-b4b1-0a0837ec6a4f.png">
 
 
   
@@ -42,9 +50,9 @@
 
 
 <details>
-<summary>Title</summary>
+<summary>Pattern</summary>
 <br>
 
-
+  
   
 </details>
