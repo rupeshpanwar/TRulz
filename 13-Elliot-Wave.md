@@ -116,13 +116,49 @@
   <img width="858" alt="image" src="https://user-images.githubusercontent.com/75510135/204515485-de7e1ee4-7465-4e1f-9fe3-d7b06d8f8ad5.png">
   <img width="674" alt="image" src="https://user-images.githubusercontent.com/75510135/204515531-5a99e9cd-b3ce-4f20-8caa-aa002dd51978.png">
   
+</details>
+
+<details>
+<summary>Corrective Pattern</summary>
+<br>
+
+  <img width="410" alt="image" src="https://user-images.githubusercontent.com/75510135/204519413-fd27baf7-3bd4-4307-8bcc-b61a4540808d.png">
+  <img width="608" alt="image" src="https://user-images.githubusercontent.com/75510135/204519912-3bc8f6c6-5393-4b82-a526-69d5a437ff4f.png">
+  <img width="666" alt="image" src="https://user-images.githubusercontent.com/75510135/204520226-6956ab04-615d-4dc9-8a4f-94e71fec34ce.png">
+  <img width="734" alt="image" src="https://user-images.githubusercontent.com/75510135/204520281-74fe0bb6-f8bd-403b-a45a-8af81e9074d6.png">
+  <img width="697" alt="image" src="https://user-images.githubusercontent.com/75510135/204520390-c6085656-6acf-4b65-a62c-e82c97227519.png">
+  <img width="641" alt="image" src="https://user-images.githubusercontent.com/75510135/204520473-3f7c6106-c8a9-4cd6-83aa-36f08dca153d.png">
+  <img width="733" alt="image" src="https://user-images.githubusercontent.com/75510135/204520636-6461dd31-1bd1-46da-90d3-4d119cff2044.png">
+  <img width="528" alt="image" src="https://user-images.githubusercontent.com/75510135/204522636-5d78f178-0fbd-4e56-a88c-ffb41df98804.png">
+
+  <img width="597" alt="image" src="https://user-images.githubusercontent.com/75510135/204523123-86fac20a-0f1b-4b62-89a7-057664365943.png">
+
+  <img width="777" alt="image" src="https://user-images.githubusercontent.com/75510135/204523333-0d0d10b3-ece2-4332-bd79-77fea86a99d3.png">
+  - Flat
+  <img width="620" alt="image" src="https://user-images.githubusercontent.com/75510135/204523601-8e460984-c137-43a6-895c-2888fe4914b4.png">
+  <img width="634" alt="image" src="https://user-images.githubusercontent.com/75510135/204523967-5806cb1d-4b50-4ae1-b77e-791236818b79.png">
+  <img width="683" alt="image" src="https://user-images.githubusercontent.com/75510135/204524188-eff4f297-1aa6-44d9-b44e-9f5b5f3141fb.png">
+  - expanded flat
+  <img width="589" alt="image" src="https://user-images.githubusercontent.com/75510135/204524573-d4e7c6ed-2591-40f0-b657-fa5b4e164ec9.png">
+
   
+    
   
+</details>
+
+
+<details>
+<summary>Title</summary>
+<br>
+
+
   
-  
-  
-  
-  
-  
+</details>
+
+<details>
+<summary>Title</summary>
+<br>
+
+
   
 </details>
