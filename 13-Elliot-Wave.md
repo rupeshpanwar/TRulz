@@ -1,36 +1,3 @@
-<details>
-<summary>How to trade - EV</summary>
-<br>
-
-  <img width="857" alt="image" src="https://user-images.githubusercontent.com/75510135/204208368-bbebb6ee-e5cf-4deb-98ea-ac70582803a5.png">
-
-  ![image](https://user-images.githubusercontent.com/75510135/204178853-ce9cf97a-5ce6-4c15-b462-adb573bb035f.png)
-  
-  <img width="932" alt="image" src="https://user-images.githubusercontent.com/75510135/204181151-8060f1b1-5266-4f57-846e-7bbf0c95b72b.png">
-
-  <img width="965" alt="image" src="https://user-images.githubusercontent.com/75510135/204182902-ab18e7c3-277c-41be-a9ce-5ccc65443a97.png">
-
-  <img width="975" alt="image" src="https://user-images.githubusercontent.com/75510135/204183154-d83b8b54-e4a8-44fb-9a39-e22f00278832.png">
-
-  <img width="955" alt="image" src="https://user-images.githubusercontent.com/75510135/204186053-69e2e432-f28a-41d0-9275-970042443d19.png">
-
-  <img width="960" alt="image" src="https://user-images.githubusercontent.com/75510135/204186742-bcae9ee1-a477-4a6b-b783-03fd1aca8919.png">
-
-  <img width="951" alt="image" src="https://user-images.githubusercontent.com/75510135/204187181-d2203e3e-0328-4a95-a843-bfd8b7af972f.png">
-
-  <img width="960" alt="image" src="https://user-images.githubusercontent.com/75510135/204196265-e4b3d880-0717-4683-a4de-6ef9d52e4466.png">
-  
-  - eg
-  <img width="986" alt="image" src="https://user-images.githubusercontent.com/75510135/204196842-62866851-3eb7-4791-90df-adf93d3e82e6.png">
-
-  <img width="584" alt="image" src="https://user-images.githubusercontent.com/75510135/204207648-9c835677-e232-474c-8bec-e2612f797b3b.png">
-
-  <img width="901" alt="image" src="https://user-images.githubusercontent.com/75510135/204209100-fdfa66fc-91e3-4f8a-99b4-71155b776fab.png">
-
-  
-  
-</details>
-
 
 <details>
 <summary>Basics</summary>
@@ -140,7 +107,15 @@
   <img width="683" alt="image" src="https://user-images.githubusercontent.com/75510135/204524188-eff4f297-1aa6-44d9-b44e-9f5b5f3141fb.png">
   - expanded flat
   <img width="589" alt="image" src="https://user-images.githubusercontent.com/75510135/204524573-d4e7c6ed-2591-40f0-b657-fa5b4e164ec9.png">
+  <img width="748" alt="image" src="https://user-images.githubusercontent.com/75510135/204528774-967cef3e-bcde-4541-946f-1cb68a30eb0b.png">
+  <img width="821" alt="image" src="https://user-images.githubusercontent.com/75510135/204529476-eac985d4-a710-4cc2-b75c-b521f3d5a33e.png">
 
+  - Triangles
+  <img width="686" alt="image" src="https://user-images.githubusercontent.com/75510135/204532636-0fc891a6-f0cd-4ce4-a601-2c04fb77e188.png">
+  <img width="603" alt="image" src="https://user-images.githubusercontent.com/75510135/204533875-135182b2-c44c-45c3-a7d7-614f89d967a2.png">
+  <img width="474" alt="image" src="https://user-images.githubusercontent.com/75510135/204534060-838e14f0-2dfb-4ebe-8094-7634bbb2bb1b.png">
+  <img width="355" alt="image" src="https://user-images.githubusercontent.com/75510135/204534699-0d399d82-78ab-4dd4-8af5-cc80ecb68ecc.png">
+  
   
     
   
