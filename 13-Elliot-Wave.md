@@ -123,10 +123,23 @@
 
 
 <details>
-<summary>Title</summary>
+<summary>EV - Options Trading</summary>
 <br>
 
-
+   - Price movement ( Trend )
+   - Timing the entry ( when others are terribly selling vice versa)
+   - Time length of the move  
+   - Momentum of the move
+   - Psychology
+   - set only 1/3rd of the money into Options
+   - buy in lots , 1/3rd of 1/3rd money
+   - ONLY BUY DEEP in the MONEY( Internisic value)
+   - Cut losses short , Let Profit run
+   - Use your own method
+   
+   
+   <img width="660" alt="image" src="https://user-images.githubusercontent.com/75510135/204560516-aa5cc7b1-20a5-46f4-9da5-eaca4882f06f.png">
+   
   
 </details>
 
