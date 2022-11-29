@@ -84,7 +84,7 @@
 
 
 <details>
-<summary>Psychology</summary>
+<summary>Extension-Diagonal-Termination</summary>
 <br>
 
   <img width="556" alt="image" src="https://user-images.githubusercontent.com/75510135/204499973-134292be-bfc2-4dac-b236-222ec9168d3c.png">
