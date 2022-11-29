@@ -77,16 +77,52 @@
   
   - quiz , to count 
   <img width="798" alt="image" src="https://user-images.githubusercontent.com/75510135/204476439-3dc77490-3b33-431f-a246-f57b2f607c3e.png">
-
+  
   
   
 </details>
 
 
 <details>
-<summary>Pattern</summary>
+<summary>Psychology</summary>
 <br>
 
+  <img width="556" alt="image" src="https://user-images.githubusercontent.com/75510135/204499973-134292be-bfc2-4dac-b236-222ec9168d3c.png">
+  <img width="860" alt="image" src="https://user-images.githubusercontent.com/75510135/204500110-4e1310bd-87da-4724-bdf4-81c81f009f49.png">
+  <img width="843" alt="image" src="https://user-images.githubusercontent.com/75510135/204500386-fa0fb7d7-d343-4b6a-bc6c-9b7d9726295f.png">
+  <img width="691" alt="image" src="https://user-images.githubusercontent.com/75510135/204503411-fed351ae-5330-4038-b706-ae7e34c26798.png">
+  <img width="427" alt="image" src="https://user-images.githubusercontent.com/75510135/204503518-aaa9bfac-5ca6-4711-809c-a5808d9b4b0c.png">
+  - extension
+  <img width="504" alt="image" src="https://user-images.githubusercontent.com/75510135/204504659-8ebfc392-17c7-4511-8132-30afa434c304.png">
+  <img width="649" alt="image" src="https://user-images.githubusercontent.com/75510135/204504868-34daa748-f6e5-489d-a3ac-c0481c7a9dfe.png">
+  - eg
+  <img width="677" alt="image" src="https://user-images.githubusercontent.com/75510135/204508296-beea237c-2b45-4d2b-8e44-6845771dc4ec.png">
+  <img width="693" alt="image" src="https://user-images.githubusercontent.com/75510135/204510665-2ff15023-4050-42b2-89d9-efa0133972d3.png">
+  <img width="762" alt="image" src="https://user-images.githubusercontent.com/75510135/204511535-236ad10b-8bfe-4ee5-a0f2-ea8251b906cd.png">
+  <img width="464" alt="image" src="https://user-images.githubusercontent.com/75510135/204511801-063334cc-ca44-487b-acc2-42895508acbb.png">
+
+  <img width="628" alt="image" src="https://user-images.githubusercontent.com/75510135/204512303-133d1dd7-9b1c-4bad-a3bf-651c5ef0d251.png">
+  <img width="887" alt="image" src="https://user-images.githubusercontent.com/75510135/204513469-7dd1bcf8-3ace-4e9d-86c3-eeef257bce98.png">
+  <img width="873" alt="image" src="https://user-images.githubusercontent.com/75510135/204513619-69f36a8f-0e97-4da5-bd5f-58a93cf40b63.png">
+  <img width="499" alt="image" src="https://user-images.githubusercontent.com/75510135/204513658-870bb851-e189-4ef9-b8b1-2913f5ca687a.png">
+  <img width="628" alt="image" src="https://user-images.githubusercontent.com/75510135/204513727-fdb13a4f-d7de-4d08-b929-551e6bec0e51.png">
+  <img width="944" alt="image" src="https://user-images.githubusercontent.com/75510135/204514030-ad3a09c4-edad-4da5-b44d-b8ed9982a1b1.png">
+  <img width="639" alt="image" src="https://user-images.githubusercontent.com/75510135/204514245-6606fd3a-4545-44bd-b0e7-7e16a141f089.png">
+  <img width="566" alt="image" src="https://user-images.githubusercontent.com/75510135/204514292-8d1a66e3-aaca-472e-a09e-138e6180240f.png">
+  <img width="561" alt="image" src="https://user-images.githubusercontent.com/75510135/204514622-e5df67d3-2c31-4df8-99a3-f01c76b33719.png">
+  <img width="891" alt="image" src="https://user-images.githubusercontent.com/75510135/204514818-15c94c25-eae0-4462-827b-58d5f88a11cf.png">
+  - Type 2 Diagonal
+  <img width="605" alt="image" src="https://user-images.githubusercontent.com/75510135/204515181-ea3f2aee-fda7-426b-97e4-fed059015c11.png">
+  <img width="858" alt="image" src="https://user-images.githubusercontent.com/75510135/204515485-de7e1ee4-7465-4e1f-9fe3-d7b06d8f8ad5.png">
+  <img width="674" alt="image" src="https://user-images.githubusercontent.com/75510135/204515531-5a99e9cd-b3ce-4f20-8caa-aa002dd51978.png">
+  
+  
+  
+  
+  
+  
+  
+  
   
   
 </details>
