@@ -147,7 +147,30 @@
 <summary>Fibonacci</summary>
 <br>
 
-   
+   <img width="540" alt="image" src="https://user-images.githubusercontent.com/75510135/204675117-9f553b04-11ad-4b14-b040-fe88e50dcec1.png">
+   <img width="829" alt="image" src="https://user-images.githubusercontent.com/75510135/204675269-da203b6d-b659-42c4-ac2a-02d77d7123af.png">
+   <img width="772" alt="image" src="https://user-images.githubusercontent.com/75510135/204676148-3d1aa278-0148-47f5-b146-7fc5a8be2e79.png">
+   <img width="830" alt="image" src="https://user-images.githubusercontent.com/75510135/204676605-8e30781a-17ba-4b1c-ba80-ad3a68acb295.png">
+   <img width="796" alt="image" src="https://user-images.githubusercontent.com/75510135/204676972-63c97bfe-d854-4965-8e94-122341a192e1.png">
+   <img width="610" alt="image" src="https://user-images.githubusercontent.com/75510135/204677325-edc333c1-14ce-47fc-8670-dc40872b688f.png">
+   - extension , 5th wave 1.618 * (3rd wave end - 1st wave start)
+   <img width="476" alt="image" src="https://user-images.githubusercontent.com/75510135/204677841-19578877-ba57-4745-b594-4f278af7c026.png">
+   <img width="380" alt="image" src="https://user-images.githubusercontent.com/75510135/204677874-979523b3-9dd8-40e4-aa67-d80f216081ce.png">
+   <img width="797" alt="image" src="https://user-images.githubusercontent.com/75510135/204678054-305654e9-ec48-4911-aacd-5f060758c616.png">
+   <img width="654" alt="image" src="https://user-images.githubusercontent.com/75510135/204678233-90a3fc34-4567-446e-865b-363da0c0d7df.png">
+   <img width="672" alt="image" src="https://user-images.githubusercontent.com/75510135/204680818-01a38589-ee6e-44b5-99e9-f67fd5c74252.png">
+  - correction
+   <img width="534" alt="image" src="https://user-images.githubusercontent.com/75510135/204681053-ffe64a0e-2b42-445e-b37b-9f925d3fa4f9.png">
+   <img width="853" alt="image" src="https://user-images.githubusercontent.com/75510135/204681373-efd27649-573a-4762-be6e-bad9d96f687f.png">
+   <img width="429" alt="image" src="https://user-images.githubusercontent.com/75510135/204681610-f73b45a6-835e-4715-b9db-c5133712298f.png">
+   <img width="863" alt="image" src="https://user-images.githubusercontent.com/75510135/204681689-7fad354e-3b36-4fb3-b5d7-97c79774e681.png">
+  - triangle
+   <img width="765" alt="image" src="https://user-images.githubusercontent.com/75510135/204682026-52defca7-92c8-496e-87e8-c41201d05eeb.png">
+   <img width="800" alt="image" src="https://user-images.githubusercontent.com/75510135/204683236-5e820b25-dff4-4409-aa46-7759a15c6ea2.png">
+   <img width="793" alt="image" src="https://user-images.githubusercontent.com/75510135/204683449-ebb92028-215b-4042-8587-68d6d075a6ba.png">
+   <img width="754" alt="image" src="https://user-images.githubusercontent.com/75510135/204683477-11f939e4-df28-4ca0-87a7-e22c945ca908.png">
+   <img width="496" alt="image" src="https://user-images.githubusercontent.com/75510135/204684095-c5cc0500-2801-479d-98ef-2abcbf4d5c7d.png">
+
   
 </details>
 
