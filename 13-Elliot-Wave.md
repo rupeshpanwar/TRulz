@@ -110,12 +110,39 @@
   <img width="748" alt="image" src="https://user-images.githubusercontent.com/75510135/204528774-967cef3e-bcde-4541-946f-1cb68a30eb0b.png">
   <img width="821" alt="image" src="https://user-images.githubusercontent.com/75510135/204529476-eac985d4-a710-4cc2-b75c-b521f3d5a33e.png">
 
-  - Triangles
+  - Triangles, mostly in wave 4 , C, occurs during correction
   <img width="686" alt="image" src="https://user-images.githubusercontent.com/75510135/204532636-0fc891a6-f0cd-4ce4-a601-2c04fb77e188.png">
   <img width="603" alt="image" src="https://user-images.githubusercontent.com/75510135/204533875-135182b2-c44c-45c3-a7d7-614f89d967a2.png">
   <img width="474" alt="image" src="https://user-images.githubusercontent.com/75510135/204534060-838e14f0-2dfb-4ebe-8094-7634bbb2bb1b.png">
   <img width="355" alt="image" src="https://user-images.githubusercontent.com/75510135/204534699-0d399d82-78ab-4dd4-8af5-cc80ecb68ecc.png">
-  
+  <img width="575" alt="image" src="https://user-images.githubusercontent.com/75510135/204689411-4d041d44-ada8-42f7-8875-e9618ddc0d61.png">
+  <img width="419" alt="image" src="https://user-images.githubusercontent.com/75510135/204689779-9e8cba57-2795-4cdf-b7b2-84743a5d7c27.png">
+  <img width="466" alt="image" src="https://user-images.githubusercontent.com/75510135/204690331-3df6fb16-df3b-4c88-9e37-d5b0c8c16cf3.png">
+ - thurst triangle
+   <img width="431" alt="image" src="https://user-images.githubusercontent.com/75510135/204690438-1879b1c8-835e-4722-8642-0f932d370b4d.png">
+   <img width="833" alt="image" src="https://user-images.githubusercontent.com/75510135/204690555-037f7254-6e06-4ba5-9bf7-e4e5612c1aac.png">
+   <img width="777" alt="image" src="https://user-images.githubusercontent.com/75510135/204690925-aed69b05-225f-48da-8683-8a3ae192ab96.png">
+   <img width="891" alt="image" src="https://user-images.githubusercontent.com/75510135/204691685-c0daa43e-351b-4283-afc3-7b4dda85faff.png">
+   <img width="639" alt="image" src="https://user-images.githubusercontent.com/75510135/204691766-74ac5976-e2c2-4288-98b6-77159a352a1c.png">
+   <img width="838" alt="image" src="https://user-images.githubusercontent.com/75510135/204692258-3e09ddf2-caf7-4a77-9021-b9f94b4f6122.png">
+   <img width="459" alt="image" src="https://user-images.githubusercontent.com/75510135/204692407-6d22d0fe-75eb-4ebf-87bc-9f9e8a3bbb69.png">
+   <img width="794" alt="image" src="https://user-images.githubusercontent.com/75510135/204694456-bd21abb4-cade-4101-99b7-59492a38302f.png">
+   <img width="721" alt="image" src="https://user-images.githubusercontent.com/75510135/204694652-ae0a387e-434e-4c74-b50b-7b1728ff5d86.png">
+   <img width="757" alt="image" src="https://user-images.githubusercontent.com/75510135/204694738-6a976a0a-613a-44df-8968-0da5defd3a29.png">
+   <img width="658" alt="image" src="https://user-images.githubusercontent.com/75510135/204694929-5f13f498-b2da-4229-b6aa-755669b37a6b.png">
+  - Termination
+   <img width="814" alt="image" src="https://user-images.githubusercontent.com/75510135/204696352-7379ae1c-8573-41c5-bb26-812dbed2a293.png">
+   <img width="496" alt="image" src="https://user-images.githubusercontent.com/75510135/204696514-6edd8981-00c3-46f4-a53b-feb5f1d2c039.png">
+   <img width="860" alt="image" src="https://user-images.githubusercontent.com/75510135/204696767-9e37fefc-c6d2-4a6a-9c86-1e4a0cde217a.png">
+   <img width="884" alt="image" src="https://user-images.githubusercontent.com/75510135/204696959-2ed3e0e3-ed80-4ddc-b79d-4f691bdf25b0.png">
+  - Double 3 , Tripple 3 . X means more correction ahead
+   <img width="644" alt="image" src="https://user-images.githubusercontent.com/75510135/204698054-d2b6af61-0c34-4abe-b3d0-f5655dfaa1fe.png">
+   <img width="574" alt="image" src="https://user-images.githubusercontent.com/75510135/204698430-9c3d3539-7bbe-45ba-b4d4-e1005515dc77.png">
+   <img width="497" alt="image" src="https://user-images.githubusercontent.com/75510135/204698524-57e9c56a-a167-40fd-bb83-13ab3876cd3d.png">
+   <img width="921" alt="image" src="https://user-images.githubusercontent.com/75510135/204698818-0a8de621-0aca-401e-b001-d5da9485634b.png">
+   <img width="831" alt="image" src="https://user-images.githubusercontent.com/75510135/204699699-f6041c78-b450-48fa-9ae3-8a93b179a69a.png">
+   <img width="490" alt="image" src="https://user-images.githubusercontent.com/75510135/204699967-1c5ed88e-02bf-4b4f-b644-c276c8bb82f7.png">
+
   
     
   
