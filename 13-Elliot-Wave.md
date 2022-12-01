@@ -211,10 +211,22 @@
 
 
 <details>
-<summary>Title</summary>
+<summary>Trade Setup</summary>
 <br>
 
+   - Setup
+      MTPredictor setting up TradingView Chart => https://www.youtube.com/watch?v=mm4FpHRgOco
+      Setting up the MTP Analysis Script to show the MTP coloured Reversal Bars - https://www.youtube.com/watch?v=elfvcvUk1Ss
 
+      Adding the Analysis to a MTP automatic setup – https://www.youtube.com/watch?v=YrZNpyDsWBs
+      How to use the DP (Decision Point) Script – https://www.youtube.com/watch?v=Kqxwi2Hgll4
+      Getting the DP Pivot Point onto Today’s Date – https://www.youtube.com/watch?v=VBNMjlij3W4
+      How to use the manual Risk/Reward Script – https://www.youtube.com/watch?v=P0jONP9LZiU
+      How to use the Elliott Wave Script – https://www.youtube.com/watch?v=bHGx2P-8-MM
+      How to use the WPT (Wave Price Target) Script - https://www.youtube.com/watch?v=m6vxyIDW-ss
   
+   - Trade
+      HOW-TO Use the MTPredictor Scripts to uncover potential trades
+
 </details>
 
