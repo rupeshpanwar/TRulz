@@ -202,13 +202,25 @@
 </details>
 
 <details>
+<summary>Rules</summary>
+<br>
+
+   <img width="949" alt="image" src="https://user-images.githubusercontent.com/75510135/205808189-d7985fe5-bdb8-4a72-a6a3-d03600652d18.png">
+   <img width="617" alt="image" src="https://user-images.githubusercontent.com/75510135/205808604-50fefb9e-e29a-454b-bff0-ac959c82fd27.png">
+   - channeling  draw line connecting 1 n 3 then draw a parallel line from 2 , it shows end of 4
+   <img width="705" alt="image" src="https://user-images.githubusercontent.com/75510135/205811764-78ad0eca-ddb9-4401-a2c8-c71ce1cf6b2f.png">
+   <img width="838" alt="image" src="https://user-images.githubusercontent.com/75510135/205817117-bb9d159e-c767-4c56-82b4-900a558e3c0b.png">
+   
+  
+</details>
+
+<details>
 <summary>Title</summary>
 <br>
 
 
   
 </details>
-
 
 <details>
 <summary>Trade Setup</summary>
